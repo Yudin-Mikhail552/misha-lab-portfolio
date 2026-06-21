@@ -10,10 +10,10 @@
 2. [telegram-stats-bot-portfolio](https://github.com/Yudin-Mikhail552/telegram-stats-bot-portfolio)
 3. [balance-resources-bot-portfolio](https://github.com/Yudin-Mikhail552/balance-resources-bot-portfolio)
 4. [site-forms-to-telegram-portfolio](https://github.com/Yudin-Mikhail552/site-forms-to-telegram-portfolio)
+5. [telegram-crm-parser-portfolio](https://github.com/Yudin-Mikhail552/telegram-crm-parser-portfolio)
 
 ## Планируемые репозитории
 
-5. telegram-crm-parser-portfolio
 6. office-vpn-portfolio
 7. telegram-leads-parser-portfolio
 8. avito-crm-automation-portfolio
