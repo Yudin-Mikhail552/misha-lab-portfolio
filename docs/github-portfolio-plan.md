@@ -12,10 +12,10 @@
 4. [site-forms-to-telegram-portfolio](https://github.com/Yudin-Mikhail552/site-forms-to-telegram-portfolio)
 5. [telegram-crm-parser-portfolio](https://github.com/Yudin-Mikhail552/telegram-crm-parser-portfolio)
 6. [office-vpn-portfolio](https://github.com/Yudin-Mikhail552/office-vpn-portfolio)
+7. [telegram-leads-parser-portfolio](https://github.com/Yudin-Mikhail552/telegram-leads-parser-portfolio)
 
 ## Планируемые репозитории
 
-7. telegram-leads-parser-portfolio
 8. avito-crm-automation-portfolio
 
 ## Правила подготовки проектов
@@ -29,6 +29,7 @@
 - не публиковать логи с персональными данными;
 - не публиковать cookies, сессии и API-ключи;
 - не публиковать рабочие конфиги;
+- не публиковать Telegram-сессии, API ID/API hash и номера телефонов аккаунтов;
 - не публиковать VPN-ключи, QR-коды и конфиги доступа;
 - добавлять .env.example вместо .env;
 - добавлять README.md;
