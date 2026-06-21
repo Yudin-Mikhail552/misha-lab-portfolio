@@ -8,10 +8,10 @@
 
 1. [misha-lab-portfolio](https://github.com/Yudin-Mikhail552/misha-lab-portfolio)
 2. [telegram-stats-bot-portfolio](https://github.com/Yudin-Mikhail552/telegram-stats-bot-portfolio)
+3. [balance-resources-bot-portfolio](https://github.com/Yudin-Mikhail552/balance-resources-bot-portfolio)
 
 ## Планируемые репозитории
 
-3. balance-resources-bot-portfolio
 4. site-forms-to-telegram-portfolio
 5. telegram-crm-parser-portfolio
 6. office-vpn-portfolio
@@ -27,6 +27,8 @@
 - не публиковать реальные заявки и клиентские данные;
 - не публиковать рабочие базы SQLite;
 - не публиковать логи с персональными данными;
+- не публиковать cookies, сессии и API-ключи;
+- не публиковать рабочие конфиги;
 - добавлять .env.example вместо .env;
 - добавлять README.md;
 - добавлять описание задачи, решения, стека и результата;
