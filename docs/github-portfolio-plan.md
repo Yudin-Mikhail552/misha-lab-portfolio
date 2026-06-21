@@ -4,10 +4,13 @@
 
 Собрать аккуратное публичное портфолио без секретов, токенов, клиентских данных, внутренних IP, реальных баз и конфиденциальной информации.
 
+## Уже созданные репозитории
+
+1. [misha-lab-portfolio](https://github.com/Yudin-Mikhail552/misha-lab-portfolio)
+2. [telegram-stats-bot-portfolio](https://github.com/Yudin-Mikhail552/telegram-stats-bot-portfolio)
+
 ## Планируемые репозитории
 
-1. misha-lab-portfolio
-2. telegram-stats-bot-portfolio
 3. balance-resources-bot-portfolio
 4. site-forms-to-telegram-portfolio
 5. telegram-crm-parser-portfolio
@@ -22,6 +25,8 @@
 - не публиковать реальные IP и домены внутренней инфраструктуры, если это не публичный сайт;
 - не публиковать ID рабочих Telegram-групп;
 - не публиковать реальные заявки и клиентские данные;
+- не публиковать рабочие базы SQLite;
+- не публиковать логи с персональными данными;
 - добавлять .env.example вместо .env;
 - добавлять README.md;
 - добавлять описание задачи, решения, стека и результата;
