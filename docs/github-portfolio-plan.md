@@ -13,16 +13,13 @@
 5. [telegram-crm-parser-portfolio](https://github.com/Yudin-Mikhail552/telegram-crm-parser-portfolio)
 6. [office-vpn-portfolio](https://github.com/Yudin-Mikhail552/office-vpn-portfolio)
 7. [telegram-leads-parser-portfolio](https://github.com/Yudin-Mikhail552/telegram-leads-parser-portfolio)
+8. [avito-crm-automation-portfolio](https://github.com/Yudin-Mikhail552/avito-crm-automation-portfolio)
 
-## Планируемые репозитории
-
-8. avito-crm-automation-portfolio
-
-## Правила подготовки проектов
+## Основные правила подготовки проектов
 
 - не публиковать токены;
 - не публиковать пароли;
-- не публиковать реальные IP и домены внутренней инфраструктуры, если это не публичный сайт;
+- не публиковать реальные IP и внутренние домены;
 - не публиковать ID рабочих Telegram-групп;
 - не публиковать реальные заявки и клиентские данные;
 - не публиковать рабочие базы SQLite;
